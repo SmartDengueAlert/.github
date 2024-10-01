@@ -11,6 +11,28 @@ SmartDengue Alert is a mobile application designed to predict and prevent Dengue
 - **SmartDengueAlert-backend**: A robust backend developed using Node.js and MongoDB, responsible for handling data storage, user management, and API services.
 - **SmartDengueAlert-Python-ML-Server**: A Python/Flask server that integrates machine learning models to analyze data and predict potential Dengue outbreaks.
 
+## Screenshots of the app
+### Splash screen
+![](./SmartDengueAlertImgs/1_Splash%20screen.png)
+### Login page
+![](./SmartDengueAlertImgs/2_Login%20page.png)
+### Profile page
+![](./SmartDengueAlertImgs/3_Profile%20page.png)
+### Home page
+![](./SmartDengueAlertImgs/4_Home%20page.png)
+### Search page
+![](./SmartDengueAlertImgs/5_Search%20page.png)
+### Info page
+![](./SmartDengueAlertImgs/6_Info%20page.png)
+![](./SmartDengueAlertImgs/7_Info%20page.png)
+![](./SmartDengueAlertImgs/8_Info%20page.png)
+![](./SmartDengueAlertImgs/9_Info%20page.png)
+![](./SmartDengueAlertImgs/10_Info%20page.png)
+### FAQ page
+![](./SmartDengueAlertImgs/11_FAQ%20page.png)
+### Logout
+![](./SmartDengueAlertImgs/12_Logout.png)
+
 ## 🖊️ Cheers,
 The SmartDengue Alert Team
 
